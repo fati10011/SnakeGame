@@ -1,7 +1,14 @@
 # SnakeGame
 The classic snake game made in Java with Swing.
+The player moves a snake using keyboard strokes and tries to survive and get the highest score possible.
 
-<h1>Game previews:</h1>
+# What I learnt:
+<ul>
+  <li>Start a project from scratch</li>
+  <li>Java Swing</li>
+</ul>
+
+# Game previews:
 <h2>Main screen</h2>
 
 ![ScreenShot](/screenshots/mainScreen.png)
